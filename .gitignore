@@ -2,3 +2,4 @@
 .DS_Store
 demo_logs/
 demo_logs_rotation/
+*.log
